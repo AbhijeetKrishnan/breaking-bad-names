@@ -1,3 +1,4 @@
-## Element Names
+# Repository for [Elementalizing Names for Breaking Bad](https://abhijeetkrishnan.me/elementalizing-names-for-breaking-bad/)
 
-Compiled by me from [Ptable](https://ptable.com/)
+A small repository to house working code versions of the snippets used in my blog post linked
+[here](https://abhijeetkrishnan.me/elementalizing-names-for-breaking-bad/).
